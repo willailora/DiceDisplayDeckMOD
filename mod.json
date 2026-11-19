@@ -1,0 +1,13 @@
+{
+  "id": "dice",
+  "kind": "tile",
+  "name": "Dice",
+  "name_ja": "ダイス",
+  "version": "1.0.0",
+  "command": "dice.ps1",
+  "icon": "dice-5.png",
+  "hosts": [],
+  "settings": [
+    { "key": "dice", "label": "Dice (e.g. 1D100, 2D20, 3D6+2)", "label_ja": "ダイス（例: 1D100、2D20、3D6+2）", "default": "1D100" }
+  ]
+}
